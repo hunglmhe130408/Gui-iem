@@ -23,7 +23,7 @@ Mau mau sớm có chồng
     btnReply: 'Gửi cho anh <3',
     reply: 'Vâng ạ, em đợi anh c iu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: ' nghe hớt nhạc rùi ấn tip v nhen Hẹn em hệt dịch mình cùng đi chơi hen.',
+    messDesc: 'Hẹn em hệt dịch mình cùng đi chơi hen. (nghe hớt nhạc rùi ấn tip v nhen)',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100009674654358' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
