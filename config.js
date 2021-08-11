@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Chúc mừng sinh nhật Vợ iu của anh nhoa ^^!',
     introDesc: `
-Hôm nay anh chợt nhớ   \
-Ngày mẹ sinh ra em    \
-Em đẹp như que kem  \
+Hôm nay anh chợt nhớ   
+Ngày mẹ sinh ra em    
+Em đẹp như que kem  
 Và thật là xinh xắn 
 Cuộc đời sao thật ngắn 
 Chúc em sống thật vui 
@@ -20,7 +20,7 @@ Mau mau sớm có chồng
     btnNo: 'Không, em chỉ muốn ăn anh hoy :3',
     question:'Trời có lúc nắng lúc mưa, tuy vợ anh có lúc khùng lúc điên nhưng lúc nào anh cũng thương. Em đợi anh nhé ?, anh sẽ bù cho em!!!! <3 ',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Vâng ạ, em đợi anh c iu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hẹn em hệt dịch mình cùng đi chơi hen.',
     btnAccept: 'Okiiiii lun <3',
