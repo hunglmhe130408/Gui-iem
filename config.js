@@ -1,6 +1,7 @@
 const CONFIG = {
     introTitle: 'Chúc mừng sinh nhật Vợ iu của anh nhoa ^^!',
-    introDesc: `Hôm nay anh chợt nhớ
+    introDesc: `
+Hôm nay anh chợt nhớ
 Ngày mẹ sinh ra em
 Em đẹp như que kem
 Và thật là xinh xắn
