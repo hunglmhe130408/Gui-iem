@@ -1,17 +1,17 @@
 const CONFIG = {
     introTitle: 'Chúc mừng sinh nhật Vợ iu của anh nhoa ^^!',
     introDesc: `
-Hôm nay anh chợt nhớ \n \
-Ngày mẹ sinh ra em \n \
-Em đẹp như que kem \n \ 
-Và thật là xinh xắn \n \
-Cuộc đời sao thật ngắn \n \
-Chúc em sống thật vui \n \
-Và luôn luôn yêu đời \n \
-Cùng nhiều điều may mắn \n \
-Em luôn luôn khỏe khoắn \n \
-Học giỏi và thành công \n \
-Mau mau sớm có chồng \n \ 
+Hôm nay anh chợt nhớ   \
+Ngày mẹ sinh ra em    \
+Em đẹp như que kem  \
+Và thật là xinh xắn 
+Cuộc đời sao thật ngắn 
+Chúc em sống thật vui 
+Và luôn luôn yêu đời 
+Cùng nhiều điều may mắn 
+Em luôn luôn khỏe khoắn 
+Học giỏi và thành công 
+Mau mau sớm có chồng 
 Để anh còn làm bố.`,
     btnIntro: 'Thơm anh 1 cái 😘',
     title: 'Em mong mún sinh nhật mình được nhận gì nèo 😙',
