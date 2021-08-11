@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Chúc mừng sinh nhật Tụng Tưng của anh nhé ^^!',
+    introDesc: ` Nhân ngày sinh nhật em,
+    anh xin tặng em món quà sinh nhật quý giá nhất của anh, 
+    đó chính là cuộc đời anh. 
+    Em nhận đi!`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    title: 'Vợ yêu ơi, hôm nay sinh nhật vợ.😙',
+    desc: 'Hãy để anh phụ em làm việc nhà nhé, cảm ơn em vì tất cả. Happy birthday vợ yêu!',
+    btnYes: 'Mình cùng nhau đón thêm nhiều sinh nhật nữa nhé <33',
+    btnNo: 'Không, Đợt này covid căng quá :3',
+    question:' Trời có lúc nắng lúc mưa, tuy vợ anh có lúc khùng lúc điên nhưng lúc nào anh cũng thương. Vợ iu có muốn sau dịch cùng anh đánh sấp các quán ăn Hà Thành không ? <3',
+    btnReply: 'Nhắn cho anh biết nghe <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Hẹn em hết dịch mình cùng đón sinh nhất bù cung nhau nè. Và cùng có nhưng đêm thật là khó quên em nhá ^^.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100009674654358' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
