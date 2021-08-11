@@ -1,4 +1,5 @@
 const CONFIG = {
+    introTitle: 'E hèm,  em nhấn F12 hai lần nhé ;)',
     introTitle: 'Chúc mừng sinh nhật Vợ iu của anh nhoa ^^!',
     introDesc: `
 Hôm nay anh chợt nhớ   
